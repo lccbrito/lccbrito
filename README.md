@@ -8,7 +8,7 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccbrito&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117" />
 </div>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=9400D3&bg_color=0&hide_border=true&line=FFFFFF)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=9400D3&bg_color=0&hide_border=true&line=808080)
 
 <div align="center">  
   <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
