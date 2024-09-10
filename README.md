@@ -1,52 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa5b0f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luana+Brito;I'm+20+years+old;I'm+from+Brazil,+PE;I+study+information+systems+at+UFPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa5b0f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luana+Brito;I'm+22+years+old;I'm+from+Brazil,+PE;I'm+an+Information+Systems+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/lccbrito">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lccbrito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Luana Brito github stats" /> 
-    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccbrito&layout=compact&hide_border=true&title_color=9400D3&text_color=9400D3&bg_color=0d1117"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lccbrito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=fa5b0f&icon_color=fa5b0f&text_color=c9d1d9&bg_color=0d1117" alt="Luana Brito github stats" /> 
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccbrito&layout=compact&hide_border=true&title_color=fa5b0f&text_color=fa5b0f&bg_color=0d1117"/>
   </a>
 </div>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=9400D3&bg_color=0&hide_border=true&line=808080)
+<!-- ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=fa5b0f&bg_color=0&hide_border=true&line=808080) -->
 
-<div align="center">  
-  <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div align="center">
+          
+  <img align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+  <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
+  <img align="center" alt="SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-plain.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   
   ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg)
   
-  <a href="https://www.instagram.com/luaccarvalho_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:lccb@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luana-cristina-de-carvalho-brito-b58886255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  [![Medium Badge](https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lcdev.tech)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lccb@cin.ufpe.br)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:///www.linkedin.com/in/lccbrito)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-fa5b0f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lccb.tech)
+
+
+  
+
 </div>
 
-<!--
-<div align="center">
-  <br>
-  <br><p><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lccbrito}/count.svg"/></p> 
-</div>
--->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&hide_border=true&height=120&section=footer"/>
-
-<!--
-  ### Main skills:
-    ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-    ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&labelColor=0D1117)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-    ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-  ### Tools:
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-    ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-    ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-    ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa5b0f&hide_border=true&height=120&section=footer"/>
