@@ -11,7 +11,6 @@
 
 <!-- ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=fa5b0f&bg_color=0&hide_border=true&line=808080) -->
 
-
 <div align="center">
           
   <img align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
@@ -22,16 +21,20 @@
   <img align="center" alt="REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   
-  ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg) -->
+  
   
   [![Medium Badge](https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lcdev.tech)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lccb@cin.ufpe.br)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:///www.linkedin.com/in/lccbrito)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-fa5b0f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lccb.tech)
 
-
-  
-
+  <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake.svg">
+  </picture>
+<br></br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa5b0f&hide_border=true&height=120&section=footer"/>
