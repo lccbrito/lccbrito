@@ -19,6 +19,7 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <br><br>
 
   
 <!--  ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg) -->
@@ -28,13 +29,14 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lccb@cin.ufpe.br)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:///www.linkedin.com/in/lccbrito)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-fa5b0f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lccb.tech)
+  <br><br>
 
   <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake-dark.svg">
       <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lccbrito/lccbrito/output/github-contribution-grid-snake.svg">
   </picture>
-<br></br>
+<br><br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa5b0f&hide_border=true&height=120&section=footer"/>
