@@ -12,7 +12,8 @@
 <!-- ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=lccbrito&color=fa5b0f&bg_color=0&hide_border=true&line=808080) -->
 
 <div align="center">
-          
+  
+  <br><br>     
   <img align="center" alt="PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
   <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
   <img align="center" alt="SQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-plain.svg">
@@ -22,7 +23,7 @@
   <br><br>
 
   
-<!--  ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg) -->
+<!--  ![Snake animation](https://github.com/lccbrito/lccbrito/blob/output/github-contribution-grid-snake.svg)-->
   
   
   [![Medium Badge](https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lcdev.tech)
